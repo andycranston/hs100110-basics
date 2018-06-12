@@ -1,2 +1,2 @@
-hs100110.exe: hs100110.c
-	gcc -o hs100110.exe hs100110.c
+hs100110.out: hs100110.c
+	gcc -o hs100110.out hs100110.c
