@@ -20,7 +20,7 @@ environments that just a single script.
 Lubomir Stroetmann and Tobias Esser from softScheck wrote this brilliant
 article on the TP-Link HS110 plug here:
 
-> [Reverse Engineering the TP-Link HS110]<https://www.softscheck.com/en/reverse-engineering-tp-link-hs110/>
+> [Reverse Engineering the TP-Link HS110](https://www.softscheck.com/en/reverse-engineering-tp-link-hs110/)
 
 They have their own Python script in this GitHub repository:
 
@@ -91,7 +91,7 @@ Note the Lua script is written using Lua version 5.
 
 You need the LuaSocket package installed as a prerequisite. See:
 
-> [LuaSocket by Diego Nehab]<https://github.com/diegonehab/luasocket>
+> [LuaSocket by Diego Nehab](https://github.com/diegonehab/luasocket)
 
 Copy the script `hs100110.lua` to a directory in your PATH, rename to just
 `hs100110` and make it executable by all.  For example:
