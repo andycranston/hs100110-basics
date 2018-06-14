@@ -150,10 +150,10 @@ le","feature":"TIM:ENE","updating":0,"rssi":-59,"led_off":0,"latitude":
 The -j option is followed by a JSON string to the sent to the plug.  For example:
 
 ```
-hs100110 -h 192.168.1.65 -j '{"system":{"set_dev_alias":{"alias":"Living Room Lamp"}}}'
+hs100110 -h 192.168.1.65 -j '{"system":{"set_dev_alias":{"alias":"Hallway Light"}}}'
 ```
 
-will set the name of the SmartPlug to "Living Room Lamp".
+will set the name of the SmartPlug to "Hallway Light".
 
 ## What next?
 
@@ -162,4 +162,5 @@ it's status you might want to look at my other repository:
 
 * hs100110-nextsteps
 
-________________________________________________________________________
+------------------------------
+End of README
